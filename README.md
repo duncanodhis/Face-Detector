@@ -83,6 +83,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For questions or support, please contact [Your Name] at [Your Email Address].
+For questions or support, please contact [Duncan Abonyo] at [duncanabi.kenya@gmail.com].
 
 ---
