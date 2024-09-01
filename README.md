@@ -49,7 +49,7 @@ This application provides real-time face detection and recognition capabilities 
 
 1. **Run the Application**:
    ```bash
-   python face_detection_app.py
+   python app.py
    ```
 
 2. **Interacting with the Application**:
